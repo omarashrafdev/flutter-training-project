@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678962649913",
+    "project_id": "creativa-ebd49",
+    "storage_bucket": "creativa-ebd49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678962649913:android:9fbfb85679708132f9a6e8",
+        "android_client_info": {
+          "package_name": "com.example.creativa_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678962649913-q5dvjq50240mhohldv36pam3vq3t0dsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBjaCWKHYKRXySkC-pkpmVp-xN2qe24k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678962649913-q5dvjq50240mhohldv36pam3vq3t0dsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
